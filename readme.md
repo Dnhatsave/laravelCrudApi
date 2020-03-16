@@ -17,7 +17,7 @@ To install just clone the project and then run `composer install`
 
 After that install all dependencies with `npm install` 
 
-for the database use php artisan migrate `php artisan migrate`
+for the database use `php artisan migrate`
 
 # Well Done!
 
